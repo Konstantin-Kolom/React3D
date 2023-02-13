@@ -2,9 +2,9 @@ import { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
 
-import { Model } from "../../models/ferarri f50/Fersrri f50";
+import { Model } from "../../models/ferarri f50/Ferarri f50";
 
-const FerarriMidel = () => {
+const FerarriModel = () => {
   return (
     <>
       <Canvas camera={{ position: [0, 2, 5], zoom: 1 }}>
@@ -26,4 +26,4 @@ const FerarriMidel = () => {
   );
 };
 
-export default FerarriMidel;
+export default FerarriModel;
