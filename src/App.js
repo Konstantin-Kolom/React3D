@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import { Routes, Route } from "react-router-dom";
 
-function App() {
+import { Navigation } from "./components/Novigation/Novigation";
+import CanvasBox from "./components/Box/CanvasBox";
+import CanvasPhysics from "./components/physics/CanvasPhysics";
+import FerarriMidel from "./components/model3D/canvasModel";
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navigation />
+      <Routes>
+        <Route path="/" element={<CanvasBox />}></Route>
+        <Route path="/physics" element={<CanvasPhysics />}></Route>
+        <Route path="/ferarri" element={<FerarriMidel />}></Route>
+        <Route path="*" element={<FerarriMidel />}></Route>
+      </Routes>
+    </>
   );
-}
+};
 
 export default App;
