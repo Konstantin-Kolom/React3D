@@ -63,6 +63,13 @@ export const Navigation = () => {
           >
             8.Текст+HTML
           </NavLink>
+          <NavLink
+            to="/spotlight"
+            className={s.navLink}
+            activeclassname={s.navLinkActive}
+          >
+            9.Прожектор
+          </NavLink>
         </div>
       </div>
     </nav>

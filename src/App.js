@@ -8,6 +8,7 @@ import CahvasDetailed from "./components/Detailed/Detailed";
 import TextureM from "./components/TextureM/TextureM";
 import TextCanvas from "./components/Text/TextCanvas";
 import Texthtml from "./components/TextHtml/TextHtml";
+import SpotlightCanvas from "./components/Spotlight/SpotlightCanvas";
 
 // import Welcome from "./components/Welcome/ConvasWelcome";
 
@@ -24,6 +25,7 @@ const App = () => {
         <Route path="/texture" element={<TextureM />}></Route>
         <Route path="/text" element={<TextCanvas />}></Route>
         <Route path="/texthtml" element={<Texthtml />}></Route>
+        <Route path="/spotlight" element={<SpotlightCanvas />}></Route>
         <Route path="*" element={<CanvasBox />}></Route>
       </Routes>
     </>
