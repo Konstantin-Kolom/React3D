@@ -28,6 +28,41 @@ export const Navigation = () => {
           >
             3. 3D модель
           </NavLink>
+          <NavLink
+            to="/welcome"
+            className={s.navLink}
+            activeclassname={s.navLinkActive}
+          >
+            4. Анимация
+          </NavLink>
+          <NavLink
+            to="/detailed"
+            className={s.navLink}
+            activeclassname={s.navLinkActive}
+          >
+            5. Detailed
+          </NavLink>
+          <NavLink
+            to="/texture"
+            className={s.navLink}
+            activeclassname={s.navLinkActive}
+          >
+            6.Текстура
+          </NavLink>
+          <NavLink
+            to="/text"
+            className={s.navLink}
+            activeclassname={s.navLinkActive}
+          >
+            7.Текст
+          </NavLink>
+          <NavLink
+            to="/texthtml"
+            className={s.navLink}
+            activeclassname={s.navLinkActive}
+          >
+            8.Текст+HTML
+          </NavLink>
         </div>
       </div>
     </nav>

@@ -12,7 +12,7 @@ const FerarriModel = () => {
         <color attach="background" args={["lightblue"]} />
         <hemisphereLight intensity={0.35} />
         <spotLight
-          position={[5, 15, 0]}
+          position={[5, 25, 5]}
           angle={0.3}
           penumbra={1}
           intensity={5}
