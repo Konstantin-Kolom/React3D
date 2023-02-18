@@ -1,1 +1,0 @@
-     "@react-three/postprocessing": "^2.7.0",
