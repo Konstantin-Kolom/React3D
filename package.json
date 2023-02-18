@@ -2,7 +2,7 @@
   "name": "react3d",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://konstantin-kolom.github.io/React3D/",
+  "homepage": "https://github.com/Konstantin-Kolom/React3D",
   "dependencies": {
     "@react-spring/web": "^9.6.1",
     "@react-three/cannon": "^6.5.2",
