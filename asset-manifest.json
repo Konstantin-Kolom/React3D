@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Konstantin-Kolom/react-3d-test/static/css/main.6648070a.css",
+    "main.js": "/Konstantin-Kolom/react-3d-test/static/js/main.d7eb294c.js",
+    "index.html": "/Konstantin-Kolom/react-3d-test/index.html",
+    "main.6648070a.css.map": "/Konstantin-Kolom/react-3d-test/static/css/main.6648070a.css.map",
+    "main.d7eb294c.js.map": "/Konstantin-Kolom/react-3d-test/static/js/main.d7eb294c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6648070a.css",
+    "static/js/main.d7eb294c.js"
+  ]
+}
