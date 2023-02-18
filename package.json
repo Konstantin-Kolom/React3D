@@ -1,5 +1,5 @@
 {
-  "name": "kkv-3d-components",
+  "name": "react3d",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://konstantin-kolom.github.io/React3D/",
@@ -22,6 +22,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
