@@ -70,6 +70,13 @@ export const Navigation = () => {
           >
             9.Прожектор
           </NavLink>
+          <NavLink
+            to="/sound"
+            className={s.navLink}
+            activeclassname={s.navLinkActive}
+          >
+            10.Звук
+          </NavLink>
         </div>
       </div>
     </nav>
