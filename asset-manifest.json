@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Konstantin-Kolom/react-3d-test/static/css/main.6648070a.css",
-    "main.js": "/Konstantin-Kolom/react-3d-test/static/js/main.2501ca89.js",
+    "main.js": "/Konstantin-Kolom/react-3d-test/static/js/main.51f8f6c5.js",
+    "static/media/viber.jpg": "/Konstantin-Kolom/react-3d-test/static/media/viber.fc184c8ae1fc86ec0671.jpg",
     "index.html": "/Konstantin-Kolom/react-3d-test/index.html",
     "main.6648070a.css.map": "/Konstantin-Kolom/react-3d-test/static/css/main.6648070a.css.map",
-    "main.2501ca89.js.map": "/Konstantin-Kolom/react-3d-test/static/js/main.2501ca89.js.map"
+    "main.51f8f6c5.js.map": "/Konstantin-Kolom/react-3d-test/static/js/main.51f8f6c5.js.map"
   },
   "entrypoints": [
     "static/css/main.6648070a.css",
-    "static/js/main.2501ca89.js"
+    "static/js/main.51f8f6c5.js"
   ]
 }
