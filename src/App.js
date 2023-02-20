@@ -10,6 +10,7 @@ import TextCanvas from './components/Text/TextCanvas';
 import Texthtml from './components/TextHtml/TextHtml';
 import SpotlightCanvas from './components/Spotlight/SpotlightCanvas';
 import SoundM from './components/SoundM/SoundM';
+import Hammer from './components/Hammer/Hammer';
 
 // import Welcome from "./components/Welcome/ConvasWelcome";
 
@@ -28,6 +29,7 @@ const App = () => {
         <Route path="/texthtml" element={<Texthtml />}></Route>
         <Route path="/spotlight" element={<SpotlightCanvas />}></Route>
         <Route path="/sound" element={<SoundM />}></Route>
+        <Route path="/hammer" element={<Hammer />}></Route>
         <Route path="*" element={<CanvasBox />}></Route>
       </Routes>
     </>
