@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Konstantin-Kolom/react-3d-test/static/css/main.291f9d8b.css",
-    "main.js": "/Konstantin-Kolom/react-3d-test/static/js/main.5867d6e3.js",
-    "static/media/miley_cyrus_-lowers.mp3": "/Konstantin-Kolom/react-3d-test/static/media/miley_cyrus_-lowers.59e5390db11e86404c06.mp3",
-    "static/media/viber.jpg": "/Konstantin-Kolom/react-3d-test/static/media/viber.fc184c8ae1fc86ec0671.jpg",
-    "index.html": "/Konstantin-Kolom/react-3d-test/index.html",
-    "main.291f9d8b.css.map": "/Konstantin-Kolom/react-3d-test/static/css/main.291f9d8b.css.map",
-    "main.5867d6e3.js.map": "/Konstantin-Kolom/react-3d-test/static/js/main.5867d6e3.js.map"
+    "main.css": "/react-3d-test/static/css/main.291f9d8b.css",
+    "main.js": "/react-3d-test/static/js/main.fd0612c1.js",
+    "static/media/miley_cyrus_-lowers.mp3": "/react-3d-test/static/media/miley_cyrus_-lowers.59e5390db11e86404c06.mp3",
+    "static/media/viber.jpg": "/react-3d-test/static/media/viber.fc184c8ae1fc86ec0671.jpg",
+    "index.html": "/react-3d-test/index.html",
+    "main.291f9d8b.css.map": "/react-3d-test/static/css/main.291f9d8b.css.map",
+    "main.fd0612c1.js.map": "/react-3d-test/static/js/main.fd0612c1.js.map"
   },
   "entrypoints": [
     "static/css/main.291f9d8b.css",
-    "static/js/main.5867d6e3.js"
+    "static/js/main.fd0612c1.js"
   ]
 }
