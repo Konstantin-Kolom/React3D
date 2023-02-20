@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Konstantin-Kolom/react-3d-test/static/css/main.d24308e0.css",
-    "main.js": "/Konstantin-Kolom/react-3d-test/static/js/main.ddbda586.js",
+    "main.css": "/Konstantin-Kolom/react-3d-test/static/css/main.291f9d8b.css",
+    "main.js": "/Konstantin-Kolom/react-3d-test/static/js/main.5867d6e3.js",
     "static/media/miley_cyrus_-lowers.mp3": "/Konstantin-Kolom/react-3d-test/static/media/miley_cyrus_-lowers.59e5390db11e86404c06.mp3",
     "static/media/viber.jpg": "/Konstantin-Kolom/react-3d-test/static/media/viber.fc184c8ae1fc86ec0671.jpg",
     "index.html": "/Konstantin-Kolom/react-3d-test/index.html",
-    "main.d24308e0.css.map": "/Konstantin-Kolom/react-3d-test/static/css/main.d24308e0.css.map",
-    "main.ddbda586.js.map": "/Konstantin-Kolom/react-3d-test/static/js/main.ddbda586.js.map"
+    "main.291f9d8b.css.map": "/Konstantin-Kolom/react-3d-test/static/css/main.291f9d8b.css.map",
+    "main.5867d6e3.js.map": "/Konstantin-Kolom/react-3d-test/static/js/main.5867d6e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d24308e0.css",
-    "static/js/main.ddbda586.js"
+    "static/css/main.291f9d8b.css",
+    "static/js/main.5867d6e3.js"
   ]
 }
