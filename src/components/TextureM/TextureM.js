@@ -1,21 +1,17 @@
-import { OrbitControls } from "@react-three/drei";
-import { Canvas, useLoader } from "@react-three/fiber";
-import { Suspense } from "react";
-import { TextureLoader } from "three/src/loaders/TextureLoader";
+import { OrbitControls } from '@react-three/drei';
+import { Canvas, useLoader } from '@react-three/fiber';
+import { Suspense } from 'react';
+import { TextureLoader } from 'three/src/loaders/TextureLoader';
+
+import img from '../../Img/viber.jpg';
 
 function Circle() {
-  const url = "viber.jpg";
-  const colorMap = useLoader(TextureLoader, url);
+  const colorMap = useLoader(TextureLoader, img);
 
   return (
     <mesh>
       <circleGeometry args={[2, 128]} />
-      <meshBasicMaterial
-        map={colorMap}
-        attach="material"
-        color="green"
-        displacementScale={2}
-      />
+      <meshBasicMaterial map={colorMap} attach="material" color="green" displacementScale={2} />
     </mesh>
   );
 }

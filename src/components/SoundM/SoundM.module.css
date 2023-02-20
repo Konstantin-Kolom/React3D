@@ -1,0 +1,17 @@
+.box_btn {
+  display: block;
+  position: absolute;
+  top: 50px;
+}
+
+.btn {
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+}
+
+.box2_btn {
+  display: block;
+  position: absolute;
+  top: 150px;
+}

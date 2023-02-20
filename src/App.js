@@ -1,15 +1,15 @@
-import { Routes, Route } from "react-router-dom";
+import { Routes, Route } from 'react-router-dom';
 
-import { Navigation } from "./components/Novigation/Novigation";
-import CanvasBox from "./components/Box/CanvasBox";
-import CanvasPhysics from "./components/physics/CanvasPhysics";
-import FerarriModel from "./components/model3D/canvasModel";
-import CahvasDetailed from "./components/Detailed/Detailed";
-import TextureM from "./components/TextureM/TextureM";
-import TextCanvas from "./components/Text/TextCanvas";
-import Texthtml from "./components/TextHtml/TextHtml";
-import SpotlightCanvas from "./components/Spotlight/SpotlightCanvas";
-import SoundM from "./components/SoundM/SoundM";
+import { Navigation } from './components/Novigation/Novigation';
+import CanvasBox from './components/Box/CanvasBox';
+import CanvasPhysics from './components/physics/CanvasPhysics';
+import FerarriModel from './components/model3D/canvasModel';
+import CahvasDetailed from './components/Detailed/Detailed';
+import TextureM from './components/TextureM/TextureM';
+import TextCanvas from './components/Text/TextCanvas';
+import Texthtml from './components/TextHtml/TextHtml';
+import SpotlightCanvas from './components/Spotlight/SpotlightCanvas';
+import SoundM from './components/SoundM/SoundM';
 
 // import Welcome from "./components/Welcome/ConvasWelcome";
 
