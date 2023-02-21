@@ -40,6 +40,9 @@ export const Navigation = () => {
           <NavLink to="/hammer" className={s.navLink} activeclassname={s.navLinkActive}>
             11.Молоток
           </NavLink>
+          <NavLink to="/heroWeb" className={s.navLink} activeclassname={s.navLinkActive}>
+            12.Герой
+          </NavLink>
         </div>
       </div>
     </nav>
