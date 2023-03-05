@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-3d-test/static/css/main.291f9d8b.css",
-    "main.js": "/react-3d-test/static/js/main.d27803f2.js",
+    "main.js": "/react-3d-test/static/js/main.120d9375.js",
     "static/media/miley_cyrus_-lowers.mp3": "/react-3d-test/static/media/miley_cyrus_-lowers.59e5390db11e86404c06.mp3",
     "static/media/viber.jpg": "/react-3d-test/static/media/viber.fc184c8ae1fc86ec0671.jpg",
     "index.html": "/react-3d-test/index.html",
     "main.291f9d8b.css.map": "/react-3d-test/static/css/main.291f9d8b.css.map",
-    "main.d27803f2.js.map": "/react-3d-test/static/js/main.d27803f2.js.map"
+    "main.120d9375.js.map": "/react-3d-test/static/js/main.120d9375.js.map"
   },
   "entrypoints": [
     "static/css/main.291f9d8b.css",
-    "static/js/main.d27803f2.js"
+    "static/js/main.120d9375.js"
   ]
 }
